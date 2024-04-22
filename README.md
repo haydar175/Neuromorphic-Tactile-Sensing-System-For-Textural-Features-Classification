@@ -5,3 +5,4 @@ First, we discuss the encoding procedure where we convert the raw tactile signal
 
 In the second part of this tutorial, we explain the implementation procedure of the recurrent spiking neural network (RSNN). Following this, we will train and test the RSNN through the surrogate gradient descent on the encoded dataset. The datasets are encoded with different combinations of refractory period for the RA-I and SA-I mechanoreceptors.  
 
+![Picture1](https://github.com/haydar175/Neuromorphic-Tactile-Sensing-System-For-Textural-Features-Classification/assets/69388118/812bd4b7-91ba-4278-ada7-54759d4943ba)
