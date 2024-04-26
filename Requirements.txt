@@ -1,0 +1,6 @@
+pandas == 2.0.3
+brain2 == 2.6.0
+numpy == 1.25.2
+nni == 3.0
+torch == 2.2.1+cu121
+h5py == 3.9.0
